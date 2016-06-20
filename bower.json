@@ -1,0 +1,23 @@
+{
+  "name": "rcm-notifyjs",
+  "homepage": "https://github.com/reliv/rcm-notifyjs",
+  "description": "Notify.js styles for rcm",
+  "keywords": [
+    "javascipt",
+    "notifyjs"
+  ],
+  "authors": [
+    "James Jervis"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
